@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Dumpster_204.jpg</filename>
+	<path>C:\Users\dso1222\Desktop\images\Dumpster_204.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>979</width>
+		<height>1300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>107</ymin>
+			<xmax>509</xmax>
+			<ymax>1260</ymax>
+		</bndbox>
+	</object>
+</annotation>

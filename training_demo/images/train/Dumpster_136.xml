@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>Dumpster_136.jpg</filename>
+	<path>C:\Users\dso1222\Documents\watchtower\Tensorflow\workspace_dumpster\training_demo\images\data\Dumpster_136.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>926</width>
+		<height>593</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>112</ymin>
+			<xmax>542</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>

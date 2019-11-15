@@ -1,0 +1,9 @@
+item {
+	id: 1
+	name: 'Dumpster'
+}
+
+item {
+	id: 2
+	name: 'Person'
+}
