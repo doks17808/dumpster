@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Unobstructed_Resized</folder>
+	<filename>scene_extraced00811.jpg</filename>
+	<path>C:\Users\abm0406\Desktop\Image dump\Unobstructed\Unobstructed_Resized\scene_extraced00811.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>69</ymin>
+			<xmax>100</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Dumpster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>63</ymin>
+			<xmax>294</xmax>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>
